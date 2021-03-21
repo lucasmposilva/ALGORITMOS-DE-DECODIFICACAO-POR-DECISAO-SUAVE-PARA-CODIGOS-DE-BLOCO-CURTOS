@@ -1,4 +1,4 @@
-function data_intrlv(ifile,ofile,N)
+function dataExpander(ifile,ofile,N)
 
 load(ifile,"data");
 
