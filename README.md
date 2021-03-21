@@ -29,4 +29,4 @@ parâmetros do código a ser simulado
 vetor com os valores de EbNo a serem simulados ou o início, o fim e o passo para a criação do vetor com os valores de EbNo.
 
 # 3. Gerando gráficos
-Os gráficos apresentados no trabalho de conclusão de curso foram gerados a partir do script plotCalls.m que utiliza a função resultsToPlot.m, ambas desenvolvidas pelo autor. Logo, para obter os gráficos basta executar a função plotCalls.m.
+Os gráficos apresentados no trabalho de conclusão de curso foram gerados a partir do script plotCalls.m que utiliza a função resultsToPlot.m e os arquivos plotData*.mat. Logo, para obter os gráficos, basta executar a função plotCalls.m após o download deste repositório.
